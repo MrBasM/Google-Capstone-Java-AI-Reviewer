@@ -57,9 +57,8 @@ Manual code review is time-consuming, inconsistent, and error-prone. By using ge
 
 ## 🔗 Links
 
-- 📖 [Blogpost](https://mrbasm.github.io/2024/04/06/gen-ai-capstone.html)
+- 📖 [Blogpost](https://mrbasm.github.io/2024/04/12/gen-ai-capstone.html)
 - 📘 [Capstone Challenge on Kaggle](https://www.kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1)
-- 📦 [Google Generative AI Python SDK](https://github.com/google/generative-ai-python)
 
 ---
 
